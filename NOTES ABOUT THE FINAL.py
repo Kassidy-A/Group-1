@@ -29,7 +29,7 @@ df.drop_duplicates(inplace=True)
 # Summary Stats, Descriptive Stats, and Correlation
 
 #one line of code 
-#df.describe 
+#df.describe()
 #what do these stats tell you
 
 ###############################################################################
