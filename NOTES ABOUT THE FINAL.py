@@ -1,12 +1,10 @@
-
 #GROUP PROJECT
 
 # Latex Project
 ######WIth title, date, members, an intro
 
 ###############################################################################
-
-# Set up Environment
+# Step 1: Set up Environment
 
 import pandas as pd
 import numpy as np
@@ -14,7 +12,7 @@ import matplotlib.pyplot as plt
 
 ###############################################################################
 
-# Load and Clean the Data
+# Step 2: Load and Clean the Data
 
 df = pd.read_csv()
 
@@ -26,7 +24,7 @@ df.drop_duplicates(inplace=True)
 
 ###############################################################################
 
-# Summary Stats, Descriptive Stats, and Correlation
+# Step 3: Summary Stats, Descriptive Stats, and Correlation
 
 #one line of code 
 #df.describe()
@@ -34,18 +32,18 @@ df.drop_duplicates(inplace=True)
 
 ###############################################################################
 
-# Analysis ???????????????????????? 
+# Step 4: Analysis
 
 #literally said it isn't a specific thing????????
 #depends on you and your group
 #what info you want to show from your group
 
 
-#stats one column, depending on the data and what it means???????
+#stats from one column, depending on the data and what it means???????
 
 ###############################################################################
 
-# Visualization:
+# Step 5: Visualization
 
     #Choose 1 or 2??????
 #Histogram
@@ -54,13 +52,14 @@ df.drop_duplicates(inplace=True)
 
 ###############################################################################
 
-# Linear Regression Model
+# Step 6: Linear Regression Model
 
 #line of best fit
 
 ###############################################################################
 
-# Other Analysis Ideas:
+# Step 7: Other Analysis Ideas
+#KMeans, classification, z-score, IQR.
 
     
 
